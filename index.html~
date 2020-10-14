@@ -102,7 +102,7 @@
                 </div>
             </div>
         </section>
-	<!-- Signup-->
+        <!-- Signup-->
         <section class="signup-section" id="signup">
             <div class="container">
                 <div class="row">
@@ -161,46 +161,6 @@
         </section>
         <!-- Footer-->
         <footer class="footer bg-black small text-center text-white-50"><div class="container">Copyright © GYMTOR 2020</div></footer>
-	<!-- Reports-->
-        <style>
-        .flex-container{
-                position: relative;
-                overflow: hidden;
-                width: 80%;
-                min-height: 300px;
-                margin: 0 auto;
-                display: -webkit-flex; /* Safari */
-                display: flex; /* Standard syntax */
-        }
-        .flex-container .column{
-                flex-basis: 20%;
-        }
-        </style>
-        <div style="margin:auto; text-align: center; background-color: #000">
-        	<div class="flex-container">
-                                <div class="column">
-                                        <a href="/reports/SpecificationsReport.pdf" target="_blank" download><img class="img-fluid" src="assets/img/pdf.png" alt="" /></a>
-                                        <h5 style="color: #fff">Specifications Report</h5>
-                                </div>
-                                <div class="column">
-                                        <a href="/report/AnalysisReport" target="_blank" download><img class="img-fluid" src="assets/img/pdf.png" alt="" /></a>
-                                        <h5 style="color: #fff">Analysis Report</h5>
-                                </div>
-                                <div class="column">
-                                        <a href="HighLevelDesignReport.pdf" target="_blank" download><img class="img-fluid" src="assets/img/pdf.png" alt="" /></a>
-                                        <h5 style="color: #fff">High Level Design Report</h5>
-                                 </div>
-                                <div class="column">
-                                        <a href="LowLevelDesignReport.pdf" target="_blank" download><img class="img-fluid" src="assets/img/pdf.png" alt="" /></a>
-                                        <h5 style="color: #fff">Low Level Design Report</h5>
-                                </div>
-                                <div class="column">
-                                        <a href="FinalReport.pdf" target="_blank" download><img class="img-fluid" src="assets/img/pdf.png" alt="" /></a>
-                                        <h5 style="color: #fff">Final Report</h5>
-                                </div>
-                </div>
-
-        </div>
         <!-- Bootstrap core JS-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
